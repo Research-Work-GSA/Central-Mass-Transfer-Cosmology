@@ -5,6 +5,8 @@ Author: Gouri Sankar Adhikari
 Year: 2025
 Domain: Theoretical Cosmology / Foundations of ΛCDM
 
+Archived on Zenodo: DOI 10.5281/zenodo.18096383
+
 Overview
 
 Central Mass Transfer Cosmology (CMT) is a boundary-condition theory that addresses a known limitation of standard cosmology:
